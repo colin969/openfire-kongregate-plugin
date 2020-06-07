@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+   <class>com.colin969.openfire.plugins.kongregate.KongregatePlugin</class>
+   <name>Kongregate</name>
+   <description>Handles Kongregate IQ messages</description>
+   <author>colin969</author>
+   <version>1.0-SNAPSHOT</version>
+   <date>07/06/2020</date>
+   <minServerVersion>4.0.0</minServerVersion>
+    <!-- And if it won't work after:
+   <maxServerVersion>4.3.0</maxServerVersion>
+   -->
+
+   <adminconsole>
+   </adminconsole>
+</plugin>
